@@ -1,0 +1,1 @@
+export const TARGET_HASH_MS = 250;
